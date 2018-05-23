@@ -1,1 +1,1 @@
-# Pacman-Reinforcement-Learling
+# Pacman-Reinforcement-Learning
